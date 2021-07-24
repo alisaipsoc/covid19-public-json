@@ -4,36 +4,36 @@ Here is an example of COVID-19's data in JSON output.
 
 ## 1. Cases Malaysia
 
-![Cases Malaysia](https://raw.githubusercontent.com/amlxv/covid19-public-json/master/img/cases_malaysia.png)
+<img src="https://raw.githubusercontent.com/amlxv/covid19-public-json/master/img/cases_malaysia.png" width="600">
 
 ## 2. Cases State
 
-![Cases State](https://raw.githubusercontent.com/amlxv/covid19-public-json/master/img/cases_state.png)
+<img src="https://raw.githubusercontent.com/amlxv/covid19-public-json/master/img/cases_state.png" width="600">
 
 ## 3. Clusters
 
-![Clusters](https://raw.githubusercontent.com/amlxv/covid19-public-json/master/img/clusters.png)
+<img src="https://raw.githubusercontent.com/amlxv/covid19-public-json/master/img/clusters.png" width="600">
 
 ## 4. Deaths Malaysia
 
-![Deaths Malaysia](https://raw.githubusercontent.com/amlxv/covid19-public-json/master/img/deaths_malaysia.png)
+<img src="https://raw.githubusercontent.com/amlxv/covid19-public-json/master/img/deaths_malaysia.png" width="600">
 
 ## 5. Deaths State
 
-![Deaths State](https://raw.githubusercontent.com/amlxv/covid19-public-json/master/img/death_state.png)
+<img src="https://raw.githubusercontent.com/amlxv/covid19-public-json/master/img/death_state.png" width="600">
 
 ## 6. Hospital
 
-![Hospital](https://raw.githubusercontent.com/amlxv/covid19-public-json/master/img/hospital.png)
+<img src="https://raw.githubusercontent.com/amlxv/covid19-public-json/master/img/hospital.png" width="600">
 
 ## 7. ICU
 
-![ICU](https://raw.githubusercontent.com/amlxv/covid19-public-json/master/img/icu.png)
+<img src="https://raw.githubusercontent.com/amlxv/covid19-public-json/master/img/icu.png" width="600">
 
 ## 8. PKRC
 
-![PKRC](https://raw.githubusercontent.com/amlxv/covid19-public-json/master/img/pkrc.png)
+<img src="https://raw.githubusercontent.com/amlxv/covid19-public-json/master/img/pkrc.png" width="600">
 
 ## 9. Tests Malaysia
 
-![TEST MALAYSIA](https://raw.githubusercontent.com/amlxv/covid19-public-json/master/img/tests_malaysia.png)
+<img src="https://raw.githubusercontent.com/amlxv/covid19-public-json/master/img/tests_malaysia.png" width="600">
