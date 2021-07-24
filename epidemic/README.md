@@ -1,37 +1,39 @@
-# Screenshot
+# JSON Output Preview
 
-## Cases Malaysia
+Here is an example of COVID-19's data in JSON output.
+
+## 1. Cases Malaysia
 
 ![Cases Malaysia](https://raw.githubusercontent.com/amlxv/covid19-public-json/master/img/cases_malaysia.png)
 
-## Cases State
+## 2. Cases State
 
 ![Cases State](https://raw.githubusercontent.com/amlxv/covid19-public-json/master/img/cases_state.png)
 
-## Clusters
+## 3. Clusters
 
 ![Clusters](https://raw.githubusercontent.com/amlxv/covid19-public-json/master/img/clusters.png)
 
-## Deaths Malaysia
+## 4. Deaths Malaysia
 
 ![Deaths Malaysia](https://raw.githubusercontent.com/amlxv/covid19-public-json/master/img/deaths_malaysia.png)
 
-## Deaths State
+## 5. Deaths State
 
 ![Deaths State](https://raw.githubusercontent.com/amlxv/covid19-public-json/master/img/death_state.png)
 
-## Hospital
+## 6. Hospital
 
 ![Hospital](https://raw.githubusercontent.com/amlxv/covid19-public-json/master/img/hospital.png)
 
-## ICU
+## 7. ICU
 
 ![ICU](https://raw.githubusercontent.com/amlxv/covid19-public-json/master/img/icu.png)
 
-## PKRC
+## 8. PKRC
 
 ![PKRC](https://raw.githubusercontent.com/amlxv/covid19-public-json/master/img/pkrc.png)
 
-## Tests Malaysia
+## 9. Tests Malaysia
 
 ![TEST MALAYSIA](https://raw.githubusercontent.com/amlxv/covid19-public-json/master/img/tests_malaysia.png)
