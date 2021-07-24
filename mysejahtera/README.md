@@ -4,16 +4,16 @@ Here is an example of COVID-19's data in JSON output.
 
 ## 1. Checkin Malaysia
 
-![Checkin Malaysia](https://raw.githubusercontent.com/amlxv/covid19-public-json/master/img/checkin_malaysia.png)
+<img src="https://raw.githubusercontent.com/amlxv/covid19-public-json/master/img/checkin_malaysia.png" width="600">
 
 ## 2. Checkin Malaysia Time
 
-![Checkin Malaysia Time](https://raw.githubusercontent.com/amlxv/covid19-public-json/master/img/checkin_malaysia_time.png)
+<img src="https://raw.githubusercontent.com/amlxv/covid19-public-json/master/img/checkin_malaysia_time.png" width="600">
 
 ## 3. Checkin State
 
-![Checkin State](https://raw.githubusercontent.com/amlxv/covid19-public-json/master/img/checkin_state.png)
+<img src="https://raw.githubusercontent.com/amlxv/covid19-public-json/master/img/checkin_state.png" width="600">
 
 ## 4. Trace Malaysia
 
-![Trace Malaysia](https://raw.githubusercontent.com/amlxv/covid19-public-json/master/img/trace_malaysia.png)
+0<img src="https://raw.githubusercontent.com/amlxv/covid19-public-json/master/img/trace_malaysia.png" width="600">
